@@ -64,8 +64,7 @@ This is a Django project utilizing Django Rest Framework (DRF) to build a robust
 
 ### **API Endpoints**  
 1. **Authentication:**  
-   - `POST /api/auth/token/` - Obtain token.  
-   - `POST /api/auth/token/refresh/` - Refresh token.  
+   - `POST (http://127.0.0.1:8000/login/)/` - Obtain token.  
 
 
 
